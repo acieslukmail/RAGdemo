@@ -83,6 +83,9 @@ The application will be available at http://localhost:8501
 7. **Review results** - read the answer and expand the "Context Fragments" section to see where the information comes from
 8. **Query history** - browse previous questions and answers in the "Question History" section
 
+   <img width="737" alt="Zrzut ekranu 2025-04-12 o 6 39 06 PM" src="https://github.com/user-attachments/assets/8c413356-2431-41a2-9ae2-513f1591e25e" />
+
+
 ## 🧩 Project Modularity
 
 The project uses a modular architecture:
